@@ -21,6 +21,3 @@ src/adivina/
 - Atiende un cliente cada vez.
 - Puerto: 5000.
 - El servidor cierra la conexión tras acertar y vuelve a esperar a otro cliente.
-
-
-ayuda
